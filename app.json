@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "reflect",
+    "slug": "reflect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "reflect"
+}
